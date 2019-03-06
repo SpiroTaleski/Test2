@@ -32,7 +32,7 @@
             "update_account": "false",
             "update_task": "false"
         },
-        "pipeline_path": "Main GitHub 1.0",
+        "pipeline_path": null,
         "snaplex_path": "DEV Cloud"
     },
     "schedule": {},
